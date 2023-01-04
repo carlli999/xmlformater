@@ -1,0 +1,7 @@
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\obj\x86\Debug\XMLFormatter.Form1.resources
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\obj\x86\Debug\XMLFormatter.Properties.Resources.resources
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\obj\x86\Debug\XMLFormatter.csproj.GenerateResource.Cache
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\bin\Debug\XMLFormatter.exe
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\bin\Debug\XMLFormatter.pdb
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\obj\x86\Debug\XMLFormatter.exe
+C:\Users\java.ljlrwq-PC\Desktop\XMLFormatter\XMLFormatter\obj\x86\Debug\XMLFormatter.pdb
